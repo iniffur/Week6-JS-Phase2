@@ -1,0 +1,1 @@
+module.exports = '&appid=12a7596333ef10687d37c5a4920e6e82';
